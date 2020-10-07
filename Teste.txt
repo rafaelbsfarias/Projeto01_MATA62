@@ -1,0 +1,7 @@
+Teste para ver se funciona!
+
+MAIS MUDANÇAS
+
+conflito resolvido
+
+Mais um teste de commit pra ter certeza de que as raivas que nós passamos não serão mais passadas. 
